@@ -1,6 +1,6 @@
 # Lab 1: GitHub
 
-*See Due Date on Site*
+*See Due Date on Course Site*
 
 ## Why do we use GitHub in this course?
 
@@ -71,23 +71,21 @@ edit_git_config()
 
 **CONGRATULATIONS! You've configured GitHub to connect with RStudio! Now onto assignment submission practice.** 
 
-9. Click <a href="https://classroom.github.com/a/9jhk7oQu">this link</a> to accept this assignment in our GitHub classroom. Then a private repository (repo) will be automatically created for you. It might take a few minutes. 
+9. Click <a href="https://classroom.github.com/a/8iT0HvNJ">this link</a> to accept this assignment in our GitHub classroom. Then a private repository (repo) will be automatically created for you. It might take a few minutes. 
 
 10. Once the repo is created, copy and paste the "Clone" URL from the repo that was just created to your clipboard. It should look something like https://github.com/sds192spring2023/lab1-yourusername.git
 
-11. Create a project in RStudio from the GitHub repo that was just created by following the instructions starting at 26 seconds of this video:
+11. Create a project in RStudio from the GitHub repo that was just created by following the instructions starting at about 6 minutes of this video:
 
-<p><a href="https://vimeo.com/511804881">How to Connect RStudio Projects with GitHub Repositories: GitHub First</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://youtu.be/sxErFMF7BJY?feature=shared&t=361">How to Connect RStudio Projects with GitHub Repositories: GitHub First from David Keyes on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-12. Open the Lab1.qmd file from the Files tab in RStudio. Follow the instruction in the file. 
+12. Open the Lab1.qmd file from the Files pane in RStudio. Follow the instruction in the file. 
 
-13. When the file instruction tells you to commit your code, follow the instructions in this video starting at 14 seconds: 
+13. When the file instruction tells you to commit your code, follow the instructions in the same video video starting at 10:43 seconds: 
 
-<p><a href="https://vimeo.com/511800674">Make a Commit and View More History</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://youtu.be/sxErFMF7BJY?feature=shared&t=643"> Make a Commit and View More History</a> from David Keyes.</p>
 
-14. Push your code to GitHub by following the instructions in this video starting at 27 seconds:
-
-<p><a href="https://vimeo.com/511805399">General Workflow: Push</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+14. Continue watching the video to see how to push your code to github
 
 **CONGRATULATIONS! You've completed our course infrastructure set-up!** 
 
