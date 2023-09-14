@@ -71,9 +71,9 @@ edit_git_config()
 
 **CONGRATULATIONS! You've configured GitHub to connect with RStudio! Now onto assignment submission practice.** 
 
-9. Click <a href="https://classroom.github.com/a/8iT0HvNJ">this link</a> to accept this assignment in our GitHub classroom. Then a private repository (repo) will be automatically created for you. It might take a few minutes. 
+9. Click <a href="[https://classroom.github.com/a/8iT0HvNJ](https://classroom.github.com/a/8iT0HvNJ)">this link</a> to accept this assignment in our GitHub classroom. Then a private repository (repo) will be automatically created for you. It might take a few minutes. 
 
-10. Once the repo is created, copy and paste the "Clone" URL from the repo that was just created to your clipboard. It should look something like https://github.com/sds192spring2023/lab1-yourusername.git
+10. Once the repo is created, copy and paste the "Clone" URL from the repo that was just created to your clipboard. It should look something like https://github.com/SDS-192-F23/lab1-yourusername.git
 
 11. Create a project in RStudio from the GitHub repo that was just created by following the instructions starting at about 6 minutes of this video:
 
@@ -89,15 +89,11 @@ edit_git_config()
 
 **CONGRATULATIONS! You've completed our course infrastructure set-up!** 
 
-15. Fill out this week's reflections [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7sTBJ020sZbb4uNZ2avVAgLxHq68T5RhdKiydy5LaFxHHsg/viewform?usp=sf_link).
+
 
 ## Assessment
 
-You will be evaluated on the completion of your lab.
-
-In this assignment, the following standards will be assessed (the number in () indicates the maximum points you can earn for a paticulrar standard for this lab): 
-
-GITHUB (0.25)
+You will be evaluated on the completion of your lab. It will be on the 0 to 5 point scale outlines in the syllabus.
 
 ---
 ## Troubleshooting Common Issues
