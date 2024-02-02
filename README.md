@@ -85,7 +85,7 @@ edit_git_config()
 
 <p><a href="https://youtu.be/sxErFMF7BJY?feature=shared&t=643"> Make a Commit and View More History</a> from David Keyes.</p>
 
-14. Continue watching the video to see how to push your code to github
+14. Render your .qmd and continue watching the video to see how to push your code to github.
 
 **CONGRATULATIONS! You've completed our course infrastructure set-up!** 
 
